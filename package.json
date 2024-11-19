@@ -37,7 +37,7 @@
 		"astro": "*"
 	},
 	"devDependencies": {
-		"@playform/build": "0.1.8"
+		"@playform/build": "0.1.9"
 	},
 	"publishConfig": {
 		"access": "public",
